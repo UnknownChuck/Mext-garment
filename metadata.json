@@ -1,0 +1,9 @@
+
+{
+  "name": "Mext Garment E-commerce",
+  "description": "A premium garment e-commerce platform with a Temu-inspired interface, featuring an AI shopping assistant and a robust admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
